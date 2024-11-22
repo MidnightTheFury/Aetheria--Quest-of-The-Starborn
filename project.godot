@@ -48,3 +48,7 @@ down={
 2d_physics/layer_2="ground"
 2d_physics/layer_3="decoration"
 2d_physics/layer_4="pickupitem"
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0
